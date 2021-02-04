@@ -50,10 +50,12 @@ a {
     text-decoration: none;
 }
 
+/* CSS for paragraphs */
 p {
     font-size: 16px;
 }
 
+/* CSS for images*/
 .hero {
     height: 800px;
     width: 100%;
@@ -73,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* CSS for main content */
 .content {
     width: 75%;
     display: inline-block;
@@ -128,6 +131,7 @@ p {
     font-size: 36px;
 }
 
+/* CSS for footer*/
 .footer {
     padding: 30px;
     clear: both;
