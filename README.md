@@ -9,7 +9,6 @@ In order to improve the Horiseon Website to meet accesibilty standards and optim
 * Comments have been added to describe the various sections.
 * Semantic HTML elements have been used to replace non-semantic div tags.
 * CSS classes with identical formatting have been consolidated.
-* Non-functioning CSS id's have been removed.
 
 ## Usage
 
